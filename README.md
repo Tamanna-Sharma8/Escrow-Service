@@ -13,14 +13,14 @@ To create a trustless, transparent, and efficient escrow system that eliminates 
 ## Key Features
 
 ### 🔐 **Secure Fund Holding**
-- Funds are locked in smart contracts until transaction completion
-- Multi-signature security with buyer and seller verification
-- Automatic fund release upon successful transaction completion
+- Funds are locked in smart contracts until transaction completion.
+- Multi-signature security with buyer and seller verification.
+- Automatic fund release upon successful transaction completion.
 
 ### 💰 **Automated Payment Processing**
-- Instant fund release when conditions are met
-- Automated service fee calculation and distribution
-- Gas-optimized transactions for cost efficiency
+- Instant fund release when conditions are met.
+- Automated service fee calculation and distribution.
+- Gas-optimized transactions for cost efficiency.
 
 ### ⚖️ **Dispute Resolution System**
 - Built-in dispute initiation mechanism for both buyers and sellers
