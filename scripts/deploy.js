@@ -1,7 +1,7 @@
 const { ethers } = require("hardik");
 
 async function main() {
-  console.log("Starting deployment of Escrow Service...");
+  console.log("Starting deployment of Escrow Services...");
   
   // Get the ContractFactory and Signers
   const [deployer] = await ethers.getSigners();
@@ -39,7 +39,7 @@ async function main() {
     gasUsed: "See transaction receipt"
   };
   
-  console.log("\n💾 Deployment Information:");
+  console.log("\n💾 Deployment Info:");
   console.log(JSON.stringify(deploymentInfo, null, 2));
   
   // Instructions for interaction
