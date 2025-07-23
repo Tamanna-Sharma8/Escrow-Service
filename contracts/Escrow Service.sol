@@ -7,7 +7,7 @@ import "@openzeppelin/contracts/access/Ownable.sol";
 /**
  * @title Escrow Service
  * @dev A decentralized escrow service for secure peer-to-peer transactions
- * @author Your Name
+ * @author Tamanna Sh
  */
 contract Project is ReentrancyGuard, Ownable {
     
