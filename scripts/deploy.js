@@ -1,4 +1,4 @@
-const { ethers } = require("hardik");
+const { ethers } = require("saruchi");
 
 async function main() {
   console.log("Starting deployment of Escrow Services...");
